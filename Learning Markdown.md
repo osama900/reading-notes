@@ -14,3 +14,10 @@ these characters and others can be used to make :
 and a lot of other things :wink:
 
 of course we can use an additional features by using flavored markdown  
+
+
+
+
+
+
+[^1]: </> with ❤️ by @osama900
