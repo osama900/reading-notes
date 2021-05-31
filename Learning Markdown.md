@@ -10,6 +10,13 @@ these characters and others can be used to make :
 * adding links
 [click here to surfe](https://www.google.com/)
 * ordered or unordered list
+1. this is one
+   1. this is one A
+   1. this is one B
+   1. this is one C
+ 2. this is two
+ 3.  this is three
+ 4.  this is four
 
 and a lot of other things :wink:
 
@@ -19,5 +26,4 @@ of course we can use an additional features by using flavored markdown
 
 
 
-
-[^1]: </> with ❤️ by @osama900
+ </> with ❤️ by @osama900
