@@ -1,6 +1,7 @@
 # What is Markdown
 
-markdown is a language that we will **mainly** use to document our work in github.com by using sytex &nbsp;
+markdown is a language that we will **mainly** use to document our work in github.com by using syntex 
+
 *markdown* known as a non-alphabitc characters like # and *
 
 these characters and others can be used to make :
