@@ -1,7 +1,7 @@
 # What is Markdown
 
-markdown is a language that we will **mainly** use to document our work in github.com by using syntex 
-*markdown* known as a non-alphabitc characters like # and * for saving the markdown files need to be in .md or .markdown extenction
+MARKDOWN is a language that we will **mainly** use to document our work in github.com by using syntex 
+*markdown* known as a non-alphabitc characters like `#` and `*` for saving the markdown files need to be in `.md` or .markdown extenction
 
 these characters and others can be used to make :
 * style text like for example making text **bold** *italic*  ~~strikethrough~~
@@ -21,6 +21,8 @@ these characters and others can be used to make :
 and a lot of other things :wink:
 
 of course we can use an additional features by using flavored markdown  
+<br>
+[BACK HOME](https://osama900.github.io/reading-notes/)
 
 
 
