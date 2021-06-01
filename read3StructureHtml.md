@@ -45,7 +45,7 @@ in HTML  we can :
 
 and alot of other other diffrient things ...
 
-# HTML tags are : #
+# what is Semantics #
 **Semantics** which it means what purpose or role does that HTML element have
 
 also **JavaScript** have its ow Semantics in diffrent type and for diffirent use like `variales` , `lists` , `functions` and alot more.
