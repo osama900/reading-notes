@@ -38,7 +38,7 @@ in HTML  we can :
     - `<img src="images/firefox-icon.png" alt="My test image">`
 
 2. heading element :
-    - ` <h1>My main title</h1>`
+    - `<h1>My main title</h1>`
     
 3. writing paragraphs :
     - `<p>This is a single paragraph</p>`
