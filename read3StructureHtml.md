@@ -50,6 +50,7 @@ and alot of other other diffrient things ...
 
 also **JavaScript** have its ow Semantics in diffrent type and for diffirent use like `variales` , `lists` , `functions` and alot more.
 
+[BACK HOME](https://osama900.github.io/reading-notes/)
 
 
 
