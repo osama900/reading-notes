@@ -4,7 +4,6 @@
 
 <br>
 
-
 **Git**  is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 
 Thats mean since you have the ability to store every change in [github](https://github.com) for each team member and keep a track for each change [git](https://git-scm.com) will provide a controlling system for every piece of your projet 
@@ -20,7 +19,6 @@ Thats mean since you have the ability to store every change in [github](https://
 1. A complete long-term change history of every file
 2. Branching and merging 
 3. Traceability. Being able to trace each change made to the software and connect it to project management and bug tracking software
-
 
 <br>
 
@@ -49,14 +47,11 @@ remote3 https://github.com/remote3/example (fetch)
 remote3 https://github.com/remote3/example (push)
 ```
 
-
-
-
-
-
-
-
 <br>
+[BACK HOME](https://osama900.github.io/reading-notes/)
+
+
+
 
 <br>
 

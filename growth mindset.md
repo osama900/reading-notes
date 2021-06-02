@@ -19,6 +19,8 @@ when you need to achieve high goals, cross what beyond problems, get more creati
 * Elon Muk did it **YOU** can
 * keep in your mine **NO PAIN NO GAIN**
 * you have all the tools to success **USE IT**
+<br>
+[BACK HOME](https://osama900.github.io/reading-notes/)
 
 
 
