@@ -30,11 +30,13 @@ Last name: <input id="last_name">
 button id="say">Say hi!</button>
 ```
 
-2. make a place to **show** the resul
+2. make a place to **show** the result
+
 ```html
 <div id="result"></div>
 ```
-3. java script code for get full name and store in `fullname` variable and show in `result` after the user press in button `say`
+
+3. java script code for get full name and store in `fullname` variable and show in `result` after the user press in button `say`.<br>
 
 ```js
 <script>
