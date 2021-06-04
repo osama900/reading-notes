@@ -8,6 +8,7 @@
 | **3**   |revision and the cloud | [revision and the cloud](https://osama900.github.io/reading-notes/Revisions%20and%20the%20Cloud)|
 | **4**   | read3 Structre html | [structure html](https://osama900.github.io/reading-notes/read3StructureHtml)|
 |**5**     | dynamic web | [read4DynamicWeb](https://osama900.github.io/reading-notes/read4DynamicWeb)|
+|**5** | read operators and loops | [read operators and loops](https://osama900.github.io/reading-notes/read%20operators)|
 
 
 
