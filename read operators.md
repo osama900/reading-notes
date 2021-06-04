@@ -17,9 +17,36 @@ you can find many of operators in JS for example
       - `Greater than or equal (>=)` Returns true if the left operand is greater than or equal to the right operand.	
       - `Less than (<)` Returns true if the left operand is less than the right operand.	
       - `Less than or equal (<=)` Returns true if the left operand is less than or equal to the right operand.	
-      
+
+3. **Logical operators**Logical operators are typically used with Boolean (logical) values; when they are, they return a Boolean value and they are :
+      - Logical AND (&&) `expr1 && expr2` Returns expr1 if it can be converted to false; otherwise, returns expr2
+      - Logical OR (||) `expr1 || expr2` Returns expr1 if it can be converted to true; otherwise, returns expr2
+      - Logical NOT (!) `!expr` Returns false if its single operand that can be converted to true; otherwise, returns true.
+
         
 
 
+## Loops and iteration ##
+Loops offer a quick and easy way to do something repeatedly and JS provide many of loops statments for example:
+
+1. **for statments**
+
+   - for loop repeats until a specified condition evaluates to `false`.
+   - a for statment looks like this 
+     ```
+     for ([initialExpression]; [conditionExpression]; [incrementExpression]){
+     statement
+      }
+     ```
+
+2. **while statment**
+    - A while statement executes its statements as long as a specified condition evaluates to `true`
+
+    -  while statement looks like this :
+    ```
+    while (condition){
+    statement
+    }
+  ```
 
 
