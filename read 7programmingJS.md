@@ -49,6 +49,8 @@ function toCelsius(f) { // function name and the parameter f
 }
 document.getElementById("demo").innerHTML = toCelsius(77);  send a value of 77 to exectuted in the function 
 ```
+
+# operators in JS #
 and many operators and a code lines can be written inside the functions and some of the operators are :
 
 - Arithmetic operators are used to perform arithmetic on numbers like `+,-,*`
