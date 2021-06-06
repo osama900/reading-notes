@@ -36,7 +36,7 @@ function myFunction(a, b) {
 the function can be invoked (call) in a three diffrent ways
 
 1.  when an event accours (user click)
-2. when it is invoked from JS code
+2. when it is invoked from JS codegit 
 3. automaticlly (self invoke)
 
 
