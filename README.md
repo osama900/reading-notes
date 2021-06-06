@@ -10,6 +10,8 @@
 |**5**     | dynamic web | [read4DynamicWeb](https://osama900.github.io/reading-notes/read4DynamicWeb)|
 |**6** | read operators and loops | [read operators and loops](https://osama900.github.io/reading-notes/read%20operators)|
 |**7** | css css color | [CSS](https://osama900.github.io/reading-notes/design%20with%20css)|
+| **8** | Programming with JavaScript | [programming with JS](https://osama900.github.io/reading-notes/read%207programmingJS) |
+
 
 
 <br>
