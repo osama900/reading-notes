@@ -49,5 +49,9 @@ function toCelsius(f) { // function name and the parameter f
 }
 document.getElementById("demo").innerHTML = toCelsius(77);  send a value of 77 to exectuted in the function 
 ```
+and many operators and a code lines can be written inside the functions and some of the operators are :
 
-
+- Arithmetic operators are used to perform arithmetic on numbers like `+,-,*`
+- Assignment operators assign values to JavaScript variables like `=, +=`
+- Comparison Operators which compare whats on right with whats on left like `!=, === ,< ,>=` 
+- Logical Operators compare with a result of **true or false** like  `&&, ||, ! `
