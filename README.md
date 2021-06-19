@@ -1,10 +1,8 @@
 # H! ALL this is me osama omar and this is my &#8595;&#8595; 
-## reading-notes
+## Code 102 Reading Notes
 
 | ** No.**| ** Title **           | ** Link **            |
 | : --- : | : ----------------| : ----------------- : |
-|                     Code 102 Reading Notes        | 
-
 | **1**   | growth mindset  | [growth mindset Link](https://osama900.github.io/reading-notes/growth%20mindset) |
 | **2**   | learning markdown | [learning markdown](https://osama900.github.io/reading-notes/Learning%20Markdown)|
 | **3**   |revision and the cloud | [revision and the cloud](https://osama900.github.io/reading-notes/Revisions%20and%20the%20Cloud)|
@@ -14,7 +12,13 @@
 |**7** | css css color | [CSS](https://osama900.github.io/reading-notes/design%20with%20css)|
 | **8** | Programming with JavaScript | [programming with JS](https://osama900.github.io/reading-notes/read%207programmingJS) |
 
+<br>
+<br>
 
+## Code 201 Reading Notes
+
+| ** No.**| ** Title **           | ** Link **            |
+| : --- : | : ----------------| : ----------------- : |
 
 <br>
 
