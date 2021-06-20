@@ -57,3 +57,5 @@ document.write("<h1 style='color:blue'>you feel"+" " + feel +
    
  document.body.appendChild(a); 
 
+ document.write('<a href="'+desiredLink+'">'+desiredText+'</a>');
+
