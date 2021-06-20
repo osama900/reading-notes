@@ -32,4 +32,55 @@ the opining tag can contain attribute name and attribute values and the main str
 </body>
 </html>
 ```
+<br>
+<br>
+<br>
+# HTML5 #
+<br>
+the newest version of html is html 5 
 
+```html
+<!DOCTYPE html>
+```
+and comment can be added in here
+
+```html
+<!-- comments added here -->
+```
+
+all elements in the webpage will be display as a block unless we added (inline) attribute to the element 
+<br>
+multi elements can be in same group for example by adding it to a `<div>` element 
+<br>
+<br>
+<br>
+# HTML LAYOUT #
+THE RENDERED BODY page  can be divided into a different sections to complete the page as this <br>
+```html
+
+<body>
+    <header> header section</header>
+    <nav>navigation section here </nav>
+
+    <section> section 1</section>
+
+    <article> some article here </article>
+
+    
+	<footer> footer section </footer>
+
+</body>
+
+```
+and many more which help us to understand the shape of the webpage
+<br>
+<br>
+Because we build the website for the customer we need to understand their needs to design the webpages as best as possible and we can do that by understanding their :
+- ages
+- where they live
+- average income
+- what kind of device they use 
+- how many time they visit our website
+
+<br>
+on the other side we need to have a **site map** to help us later in **wireframming** so we can arrange data within it
