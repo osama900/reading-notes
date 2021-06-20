@@ -13,8 +13,7 @@ and how to use all of these to create the best experience for the client
 ## so let's start ##
 because there are different users uses owr website  and they uses there own different devices in different situation to access the website using web browser and bee served by a web host company which provide hosting for the website and manege the request respond with the client through the internet provider 
 <br>
-<br>
-<br>
+
 By using [**HTML**](https://www.w3schools.com/html/default.asp) and [**CSS**](https://www.w3schools.com/css/default.asp) which it is the basic tools or building a web page which ruled by rules called **syntax** by using tags which contain from opining tags and closing tags.<br>
 the opining tag can contain attribute name and attribute values and the main structure or html is: 
 <br>
@@ -33,8 +32,7 @@ the opining tag can contain attribute name and attribute values and the main str
 </html>
 ```
 <br>
-<br>
-<br>
+
 # HTML5 #
 <br>
 the newest version of html is html 5 
@@ -52,8 +50,7 @@ all elements in the webpage will be display as a block unless we added (inline) 
 <br>
 multi elements can be in same group for example by adding it to a `<div>` element 
 <br>
-<br>
-<br>
+
 # HTML LAYOUT #
 THE RENDERED BODY page  can be divided into a different sections to complete the page as this <br>
 ```html
@@ -85,9 +82,9 @@ Because we build the website for the customer we need to understand their needs 
 <br>
 on the other side we need to have a **site map** to help us later in **wireframming** so we can arrange data within it
 
-<br>     
-<br>     
-<br>     
+<br>
+<br>
+
 
 # JS #
 by using [**JS**](https://www.w3schools.com/js/default.asp) to our website we make it more interactive <br>
@@ -98,7 +95,7 @@ in JS we can :
 - react to the event triggered by the user or the browser 
 
 <br>
-<br>
+
 
 before we start writing **JS** code we need to understand and define the goal of the code and design the script after that we can flow that to flow chart for applying the code based on the target and steps for that specific target by using method and events.
 <br>
