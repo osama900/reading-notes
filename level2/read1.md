@@ -84,3 +84,39 @@ Because we build the website for the customer we need to understand their needs 
 
 <br>
 on the other side we need to have a **site map** to help us later in **wireframming** so we can arrange data within it
+
+<br>     
+<br>     
+<br>     
+
+# JS #
+by using [**JS**](https://www.w3schools.com/js/default.asp) to our website we make it more interactive <br>
+in JS we can :
+- access the content of the page 
+- modify the content 
+- program rules or instructions the browser can follow 
+- react to the event triggered by the user or the browser 
+
+<br>
+<br>
+
+before we start writing **JS** code we need to understand and define the goal of the code and design the script after that we can flow that to flow chart for applying the code based on the target and steps for that specific target by using method and events.
+<br>
+we can place a `JS` code in inside the html page but the best practice is to make a separate file then link it to the html webpage 
+```html
+<html>
+<head>
+	<title>title </title>
+</head>
+<body>
+
+
+
+
+
+<!-- JavaScript code should be here t the end of the body tag -->
+	<script src="js/jquery.min.js">
+    </script>
+</body>
+</html>
+```
