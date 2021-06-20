@@ -19,7 +19,7 @@
 
 | ** No.**| ** Title **           | ** Link **            |
 | : --- : | : ----------------| : ----------------- : |
-| **1**  |    title  |  [title](#) |
+| **1**  |    read 1   |  [Introductory HTML and JavaScript](https://osama900.github.io/reading-notes/level2/read1) |
 | **2**  |    title  |  [title](#) |
 | **3**  |    title  |  [title](#) |
 | **4**  |    title  |  [title](#) |
