@@ -29,7 +29,7 @@ and you can by using **email links** navigate to the user's email program and ad
 ```
 ## open link in a new window ##
 
-we can open the link in a new window by using `target ` attribute on the opening <a> tag. The value of this attribute should be `_blank` like in this example
+we can open the link in a new window by using `target ` attribute on the opening `<a>` tag. The value of this attribute should be `_blank` like in this example
 
 
 ```html
@@ -42,9 +42,21 @@ we can open the link in a new window by using `target ` attribute on the opening
 
 before you can link to a specific part of a page, you need to identify the points in the page that the link will go to. You do this using the id attribute and The value of the id attribute should start with a letter or an underscore
 
+# LAYOUT IN HTML #
+![html layout](https://i.pinimg.com/originals/aa/b4/e2/aab4e2b83f12d767bb8cfeac18b682ea.jpg)
+since we can create a different elements inside the same single page **html and css** gives us a different ways to position elements using normal flow, relative positioning, absolute positioning and floats.also because we have a various devices have different screen sizes and resolution, we need to understand how does it affects the design process.
+
+If one block-level element sits inside another block-level element then the outer box is known as the containing or parent element
+## controlling the position of an element ##
+CSS has the following positioning schemes that allow you to control the layout of a page: normal flow, relative positioning, and absolute positioning. You specify the positioning scheme using the position property in CSS. You can also float elements using the float property
+
+- Normal flow : Every block-level element appears on a new line
+- Relative Positioning : This moves an element from the position it would be in normal flow, shifting it to the top, right, bottom, or left of where it would have been placed
+- Absolute positioning : This positions the element in relation to its containing element
 
 # Pair Programming #
-![pair programming](https://martinfowler.com/articles/on-pair-programming/driver_navigator.png)
+![pair programming](https://martinfowler.com/articles/on-pair-programming/driver_navigator.png) 
+
 pair programming is the practice of two developers sharing a single workstation to interactively tackle a coding task together.
 
 the “mechanics” of coding contain **the Driver** who manages the text editor, switching files, version control, and—of course writing—code. and **The Navigator** uses their words to guide the Driver but does not provide any direct input to the computer
