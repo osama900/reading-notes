@@ -1,11 +1,46 @@
 
 
+# LINKS IN HTML #
+![anchor image](https://www.webdevelopersnotes.com/wp-content/uploads/html-links-target-attribute-of-anchor-tag.png)
+
+Links are created by using the `<a>`element. Users can click on anything between the opening `<a>` tag and the closing `</a>`  tag. You specify which page you want to link to using the href attribute.
+
+## Linking to Other Sites ##
+Links are created using the `<a>` element which has an attribute called href. The value of the **href** attribute is the page that you want people to go to when they click on the link and the user can click on whatever inside the opening and closing tag  which will take you to another website also called **absolute URL** like in this example 
+```html
+    <a href="http://www.google.com"> click here to go to google.com</a>
+    <!--- go to google.com link --->
+```
+## another page in same website ##
+also you can make a link to another page in same website which called **relative URL** like this
+```html
+ <ul>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="about-us.html">About us</a></li>
+    <li><a href="contact.html">Contact</a></li>
+</ul>
+<!-- links between pages inside the same website -->
+```
+## link to user e-mail ##
+and you can by using **email links** navigate to the user's email program and addresses an email to a specified email address but in **href** attribute we should add `mailto:` followed by the email address you want the email to be sent to like in this example
+```html
+ <a href="mailto:hi@osama.com">click here send e-mail to osama</a>
+ <!-- send e-mail by pressing click here to send e-mail to osama -->
+```
+## open link in a new window ##
+
+we can open the link in a new window by using `target ` attribute on the opening <a> tag. The value of this attribute should be `_blank` like in this example
 
 
+```html
+<a href="http://www.google.com" target="_blank"> click here   to go to google.com</a>
+    <!--- go to google.com in new tab --->
 
+```
 
+## link inside the same page ##
 
-
+before you can link to a specific part of a page, you need to identify the points in the page that the link will go to. You do this using the id attribute and The value of the id attribute should start with a letter or an underscore
 
 
 # Pair Programming #
