@@ -54,6 +54,43 @@ CSS has the following positioning schemes that allow you to control the layout o
 - Relative Positioning : This moves an element from the position it would be in normal flow, shifting it to the top, right, bottom, or left of where it would have been placed
 - Absolute positioning : This positions the element in relation to its containing element
 
+<br>
+
+# FUNCTION IN JS #
+![js image](https://i.iinfo.cz/images/619/javascript-1.jpg)
+
+Functions let you group a series of statements together to perform a specific task
+
+## creating a function ##
+to create a function **(function deceleration)** you need to give a name and then write the statements needed to achieve its task inside the curly braces like in here
+```js
+function sayhello(){
+    document.write('hello');
+}
+// function name => sayhello
+// code block (in curly brackets)=> {document.write('hello'); }
+```
+you can call a function wherever needed by calling it's name `sayhello()`
+
+we can declare a functions that need a `parameter` to execute the code within like this example
+```js
+function area(width, height){
+    return width * height ;
+}
+// the parameters are  => width and height
+// this function return the value of area based on a given width and height
+```
+
+we can assign a single or multiple variable inside the functions
+
+<br>
+<br>
+
+
+
+
+
+
 # Pair Programming #
 ![pair programming](https://martinfowler.com/articles/on-pair-programming/driver_navigator.png) 
 
