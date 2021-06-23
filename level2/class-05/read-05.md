@@ -28,6 +28,8 @@ also the size of an image can be changed using `height` and `width` attribute li
 ```html
 <img src="images/quokka.jpg" alt="A family of  quokka" width="600" height="450" />
  ```
+ <br>
+
  ## Three Rules for Creating Images ##
  There are three rules to remember when you are creating images for your website which are :
 1. **Save images in the right format** : use images in jpeg, gif, or png format
@@ -44,20 +46,21 @@ r terminology, as there are some terms that are very helpful to understand when 
 ### Foreground Color ###
 `color` The color property allows you to specify the color of text inside an element. You can specify any color in CSS in one of three ways:
 1. **rgb values** :  how much red, green and blue are used to make the color and it takes a value between 0 and 255 and the forth value wil be for the opacity which it is a percentage value between 0 and 1  like in this example :
+
 ```css
 p {
   /*rgb value */
 color: rgb(100,100,90,);}
-
 /*rgb value with an opacity of 50% */
 color: rgba(100,100,90, 0.5);}
 ```
+
 2. **hex codes** : These are three or six-digit codes that represent the amount of red, green and blue in a color, preceded by a pound or hash # and if i want to add opacity `alpha` value i'm have to rewrite the code like in this example : 
+
 ```css
 /* hex code without alpha (transparency )  */
 h2 {
 color: #ee3e80;}
-
 /* hex code with a 50% alpha (transparency )  */
 background-color: hsla(0,100%,100%,0.5);}
 ```
@@ -68,7 +71,8 @@ h1 {
 color: DarkCyan;}
 ```
 ### background-color ###
-CSS treats each HTML element as if it appears in a box, and the background-color property sets the color of the background for that box and i can change the background color like in this example :
+CSS treats each HTML element as if it appears in a box, and the background-color property sets the color of the background for that box and i can change the background color like in this example: 
+
 ```css
 /*changing the background color for the body*/
 body {
@@ -77,8 +81,8 @@ background-color: rgb(200,200,200);}
 /*changing the background color for the h1 element*/
 h1 {
 background-color: DarkCyan;}
-```
 
+```
 <br>
 
 ### extra terms to understand in coloring ###
