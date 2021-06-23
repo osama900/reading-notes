@@ -78,7 +78,11 @@ background-color: rgb(200,200,200);}
 h1 {
 background-color: DarkCyan;}
 ```
+
+<br>
+
 ### extra terms to understand in coloring ###
+
 - **Hue** : Hue is near to the colloquial idea of color
 - **Saturation** : Saturation refers to the amount of gray in a color
 - **Brightness** : Brightness (or "value") refers to how much black is in a color
