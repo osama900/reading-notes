@@ -72,3 +72,35 @@ function Person(name, age) {
   this.age = age;
 }
 ```
+
+we used the `function` keyword to define the constructor function. We need to use it because arrow functions can’t be used to define constructor functions and `this` is an object that has the data of the object instance created by the `new` keyword and With this function, we can create a new `Person` object by writing
+
+```js
+let person = new Person("ali", 10);
+```
+
+In the `Person` function, `this.name` and `this.age` are properties of object instances that are created with the new operator.
+`this.name` of the person object would have the value 'ali', and `this.age` would have the value 10.
+
+## Methods in Constructor Functions
+
+To make object instances created with constructor functions do something, we can add methods to it We can define methods in constructor functions by writing:
+
+```js
+function Person(name, age) {
+  this.name = name;
+  this.age = age;
+  this.greet = function () {
+    return `Hi ${this.name}`;
+  };
+}
+```
+
+In the code above, the `this.greet` property is a method of a `Person` instance. So if we create a new `Person` object with the constructor and call `greet` as in this example
+
+```js
+let person = new Person("ahmad", 13);
+console.log(person.greet());
+```
+
+then we get `'Hi ahmad'` from the `console.log` output.
