@@ -16,26 +16,23 @@
 <br>
 <br>
 
-## Code 201 Reading Notes
-
-| **No.** | **Title** | **Link** |
-| :-----: | :-------- | :------: |
-
-| **1** | read | [Introductory HTML and JavaScript](https://osama900.github.io/reading-notes/level2/read1) |
-| **2** | TEXT IN HTML | [TEXT IN HTML](https://osama900.github.io/reading-notes/level2/class%202/class-02) |
-| **3** | lists in html | [lists in html](https://osama900.github.io/reading-notes/level2/class-03/read-03) |
-| **4** | links in html | [html links](https://osama900.github.io/reading-notes/level2/class-04/read-04) |
-| **5** | image color txt | [image color txt](https://osama900.github.io/reading-notes/level2/class-05/read-05) |
-| **6** | Read-06 problem domain obj. DOM | [read-06](https://osama900.github.io/reading-notes/level2/class-06/read-06) |
-| **7** | Object-Oriented Programming, HTML Tables | [Object-Oriented Programming, HTML Tables](https://osama900.github.io/reading-notes/level2/class-07/read-07) |
-| **8** | title | [title](#) |
-| **9** | title | [title](#) |
-| **10** | title | [title](#) |
-| **11** | title | [title](#) |
-| **12** | title | [title](#) |
-| **13** | title | [title](#) |
-| **14** | title | [title](#) |
-| **15** | title | [title](#) |
+| **No.** | **Title**                                |                                                   **Link**                                                   |
+| :-----: | :--------------------------------------- | :----------------------------------------------------------------------------------------------------------: |
+|  **1**  | read                                     |          [Introductory HTML and JavaScript](https://osama900.github.io/reading-notes/level2/read1)           |
+|  **2**  | TEXT IN HTML                             |              [TEXT IN HTML](https://osama900.github.io/reading-notes/level2/class%202/class-02)              |
+|  **3**  | lists in html                            |              [lists in html](https://osama900.github.io/reading-notes/level2/class-03/read-03)               |
+|  **4**  | links in html                            |                [html links](https://osama900.github.io/reading-notes/level2/class-04/read-04)                |
+|  **5**  | image color txt                          |             [image color txt](https://osama900.github.io/reading-notes/level2/class-05/read-05)              |
+|  **6**  | Read-06 problem domain obj. DOM          |                 [read-06](https://osama900.github.io/reading-notes/level2/class-06/read-06)                  |
+|  **7**  | Object-Oriented Programming, HTML Tables | [Object-Oriented Programming, HTML Tables](https://osama900.github.io/reading-notes/level2/class-07/read-07) |
+|  **8**  | title                                    |                                                  [title](#)                                                  |
+|  **9**  | title                                    |                                                  [title](#)                                                  |
+| **10**  | title                                    |                                                  [title](#)                                                  |
+| **11**  | title                                    |                                                  [title](#)                                                  |
+| **12**  | title                                    |                                                  [title](#)                                                  |
+| **13**  | title                                    |                                                  [title](#)                                                  |
+| **14**  | title                                    |                                                  [title](#)                                                  |
+| **15**  | title                                    |                                                  [title](#)                                                  |
 
 <br>
 
