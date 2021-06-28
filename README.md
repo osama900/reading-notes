@@ -25,7 +25,7 @@
 |  **5**  | image color txt                          |             [image color txt](https://osama900.github.io/reading-notes/level2/class-05/read-05)              |
 |  **6**  | Read-06 problem domain obj. DOM          |                 [read-06](https://osama900.github.io/reading-notes/level2/class-06/read-06)                  |
 |  **7**  | Object-Oriented Programming, HTML Tables | [Object-Oriented Programming, HTML Tables](https://osama900.github.io/reading-notes/level2/class-07/read-07) |
-|  **8**  | title                                    |                                                  [title](#)                                                  |
+|  **8**  | HTML LAYOUT                              |               [HTML LAYOUT](https://osama900.github.io/reading-notes/level2/class-08/read-08)                |
 |  **9**  | title                                    |                                                  [title](#)                                                  |
 | **10**  | title                                    |                                                  [title](#)                                                  |
 | **11**  | title                                    |                                                  [title](#)                                                  |
