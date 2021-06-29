@@ -26,7 +26,7 @@
 |  **6**  | Read-06 problem domain obj. DOM          |                 [read-06](https://osama900.github.io/reading-notes/level2/class-06/read-06)                  |
 |  **7**  | Object-Oriented Programming, HTML Tables | [Object-Oriented Programming, HTML Tables](https://osama900.github.io/reading-notes/level2/class-07/read-07) |
 |  **8**  | HTML LAYOUT                              |               [HTML LAYOUT](https://osama900.github.io/reading-notes/level2/class-08/read-08)                |
-|  **9**  | Forms and JS Events                      |                                                  [title](#)                                                  |
+|  **9**  | Forms and JS Events                      |             [Forms and events](https://osama900.github.io/reading-notes/level2/class-09/read-09)             |
 | **10**  | title                                    |                                                  [title](#)                                                  |
 | **11**  | title                                    |                                                  [title](#)                                                  |
 | **12**  | title                                    |                                                  [title](#)                                                  |
