@@ -27,7 +27,7 @@
 |  **7**  | Object-Oriented Programming, HTML Tables | [Object-Oriented Programming, HTML Tables](https://osama900.github.io/reading-notes/level2/class-07/read-07) |
 |  **8**  | HTML LAYOUT                              |               [HTML LAYOUT](https://osama900.github.io/reading-notes/level2/class-08/read-08)                |
 |  **9**  | Forms and JS Events                      |             [Forms and events](https://osama900.github.io/reading-notes/level2/class-09/read-09)             |
-| **10**  | title                                    |                                                  [title](#)                                                  |
+| **10**  | JS Debugging                             |                                              [JS Debugging](#)                                               |
 | **11**  | title                                    |                                                  [title](#)                                                  |
 | **12**  | title                                    |                                                  [title](#)                                                  |
 | **13**  | title                                    |                                                  [title](#)                                                  |
