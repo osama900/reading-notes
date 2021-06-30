@@ -20,8 +20,9 @@ Errors are statements which don't let the program run properly and There are thr
 
 - **logical errors** : These type of errors are the most difficult to find. Consider a statement: `"Ali is playing Video games"` This statement is **logically correct and its syntax is also correct** Now consider another statement: `"Video games is playing John` This **statement is correct but is logically incorrect** These types of errors cause a _serious problem_ as they change the whole path of how your program will work
 
-## HOW TO DEAL WITH ERRORS
+# HOW TO DEAL WITH ERRORS
 
+![error](https://res.cloudinary.com/practicaldev/image/fetch/s--XH4hlkWW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/uu01niebng6v2i5ptznz.jpg)
 there are two things you can do with the errors
 
 1.  **DEBUG THE SCRIPT TO FIX ERRORS** : If you come across an error while writing a script you will need to _debug the code_ and track down the source of the error and fix it
