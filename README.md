@@ -29,7 +29,7 @@
 |  **9**  | Forms and JS Events                      |             [Forms and events](https://osama900.github.io/reading-notes/level2/class-09/read-09)             |
 | **10**  | JS Debugging                             |               [JS Debugging](https://osama900.github.io/reading-notes/level2/class-10/read-10)               |
 | **11**  | Audio, Video, Images                     |           [Audio, Video, Images](https://osama900.github.io/reading-notes/level2/class-11/read-11)           |
-| **12**  | title                                    |                                                  [title](#)                                                  |
+| **12**  | HTML canvas Element & Chart.js           |      [HTML canvas Element & Chart.js](https://osama900.github.io/reading-notes/level2/class-12/read-12)      |
 | **13**  | title                                    |                                                  [title](#)                                                  |
 | **14**  | title                                    |                                                  [title](#)                                                  |
 | **15**  | title                                    |                                                  [title](#)                                                  |
