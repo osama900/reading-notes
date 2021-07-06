@@ -16,23 +16,24 @@
 <br>
 <br>
 
-| **No.** | **Title**                                |                                                   **Link**                                                   |
-| :-----: | :--------------------------------------- | :----------------------------------------------------------------------------------------------------------: |
-|  **1**  | read                                     |          [Introductory HTML and JavaScript](https://osama900.github.io/reading-notes/level2/read1)           |
-|  **2**  | TEXT IN HTML                             |              [TEXT IN HTML](https://osama900.github.io/reading-notes/level2/class%202/class-02)              |
-|  **3**  | lists in html                            |              [lists in html](https://osama900.github.io/reading-notes/level2/class-03/read-03)               |
-|  **4**  | links in html                            |                [html links](https://osama900.github.io/reading-notes/level2/class-04/read-04)                |
-|  **5**  | image color txt                          |             [image color txt](https://osama900.github.io/reading-notes/level2/class-05/read-05)              |
-|  **6**  | Read-06 problem domain obj. DOM          |                 [read-06](https://osama900.github.io/reading-notes/level2/class-06/read-06)                  |
-|  **7**  | Object-Oriented Programming, HTML Tables | [Object-Oriented Programming, HTML Tables](https://osama900.github.io/reading-notes/level2/class-07/read-07) |
-|  **8**  | HTML LAYOUT                              |               [HTML LAYOUT](https://osama900.github.io/reading-notes/level2/class-08/read-08)                |
-|  **9**  | Forms and JS Events                      |             [Forms and events](https://osama900.github.io/reading-notes/level2/class-09/read-09)             |
-| **10**  | JS Debugging                             |               [JS Debugging](https://osama900.github.io/reading-notes/level2/class-10/read-10)               |
-| **11**  | Audio, Video, Images                     |           [Audio, Video, Images](https://osama900.github.io/reading-notes/level2/class-11/read-11)           |
-| **12**  | HTML canvas Element & Chart.js           |      [HTML canvas Element & Chart.js](https://osama900.github.io/reading-notes/level2/class-12/read-12)      |
-| **13**  | Local Storage                            |              [Local Storage](https://osama900.github.io/reading-notes/level2/class-13/class-13)              |
-| **14**  | title                                    |                                                  [title](#)                                                  |
-| **15**  | title                                    |                                                  [title](#)                                                  |
+| **No.**  | **Title**                                   |                                                     **Link**                                                     |
+| :------: | :------------------------------------------ | :--------------------------------------------------------------------------------------------------------------: |
+|  **1**   | read                                        |            [Introductory HTML and JavaScript](https://osama900.github.io/reading-notes/level2/read1)             |
+|  **2**   | TEXT IN HTML                                |                [TEXT IN HTML](https://osama900.github.io/reading-notes/level2/class%202/class-02)                |
+|  **3**   | lists in html                               |                [lists in html](https://osama900.github.io/reading-notes/level2/class-03/read-03)                 |
+|  **4**   | links in html                               |                  [html links](https://osama900.github.io/reading-notes/level2/class-04/read-04)                  |
+|  **5**   | image color txt                             |               [image color txt](https://osama900.github.io/reading-notes/level2/class-05/read-05)                |
+|  **6**   | Read-06 problem domain obj. DOM             |                   [read-06](https://osama900.github.io/reading-notes/level2/class-06/read-06)                    |
+|  **7**   | Object-Oriented Programming, HTML Tables    |   [Object-Oriented Programming, HTML Tables](https://osama900.github.io/reading-notes/level2/class-07/read-07)   |
+|  **8**   | HTML LAYOUT                                 |                 [HTML LAYOUT](https://osama900.github.io/reading-notes/level2/class-08/read-08)                  |
+|  **9**   | Forms and JS Events                         |               [Forms and events](https://osama900.github.io/reading-notes/level2/class-09/read-09)               |
+|  **10**  | JS Debugging                                |                 [JS Debugging](https://osama900.github.io/reading-notes/level2/class-10/read-10)                 |
+|  **11**  | Audio, Video, Images                        |             [Audio, Video, Images](https://osama900.github.io/reading-notes/level2/class-11/read-11)             |
+|  **12**  | HTML canvas Element & Chart.js              |        [HTML canvas Element & Chart.js](https://osama900.github.io/reading-notes/level2/class-12/read-12)        |
+|  **13**  | Local Storage                               |                [Local Storage](https://osama900.github.io/reading-notes/level2/class-13/class-13)                |
+| **14 A** | CSS Transforms, Transitions, and Animations | [CSS Transforms, Transitions, and Animations](https://osama900.github.io/reading-notes/level2/class-14/read-14a) |
+| **14 B** | What Google Learned About Teams             |       [What Google Learned About Teams](https://osama900.github.io/reading-notes/level2/class-14/read-14b)       |
+|  **15**  | title                                       |                                                    [title](#)                                                    |
 
 <br>
 
