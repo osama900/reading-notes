@@ -16,6 +16,8 @@
 <br>
 <br>
 
+## Code 201 - Foundations of Software Development
+
 | **No.**  | **Title**                                   |                                                     **Link**                                                     |
 | :------: | :------------------------------------------ | :--------------------------------------------------------------------------------------------------------------: |
 |  **1**   | read                                        |            [Introductory HTML and JavaScript](https://osama900.github.io/reading-notes/level2/read1)             |
@@ -33,7 +35,12 @@
 |  **13**  | Local Storage                               |                [Local Storage](https://osama900.github.io/reading-notes/level2/class-13/class-13)                |
 | **14 A** | CSS Transforms, Transitions, and Animations | [CSS Transforms, Transitions, and Animations](https://osama900.github.io/reading-notes/level2/class-14/read-14a) |
 | **14 B** | What Google Learned About Teams             |       [What Google Learned About Teams](https://osama900.github.io/reading-notes/level2/class-14/read-14b)       |
-|  **15**  | title                                       |                                                    [title](#)                                                    |
+
+## Code 301 - Intermediate Software Development
+
+| **No.** | **Title** |  **Link**  |
+| :-----: | :-------- | :--------: |
+|  **1**  | \*\*      | [\*\*\*]() |
 
 <br>
 
