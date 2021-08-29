@@ -38,10 +38,10 @@
 
 ## Code 301 - Intermediate Software Development
 
-| **No.** | **Title** |  **Link**  |
-| :-----: | :-------- | :--------: |
-|  **1**  | \*\*      | [\*\*\*]() |
-|  **2**  | \*\*      | [\*\*\*]() |
+| **No.** | **Title**                            |                                              **Link**                                              |
+| :-----: | :----------------------------------- | :------------------------------------------------------------------------------------------------: |
+|  **1**  | Introduction to React and Components | [Introduction to React and Components](https://osama900.github.io/reading-notes/level-03/class-01) |
+|  **2**  | \*\*                                 |                                             [\*\*\*]()                                             |
 
 <br>
 
