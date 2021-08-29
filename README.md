@@ -41,7 +41,8 @@
 | **No.** | **Title**                            |                                              **Link**                                              |
 | :-----: | :----------------------------------- | :------------------------------------------------------------------------------------------------: |
 |  **1**  | Introduction to React and Components | [Introduction to React and Components](https://osama900.github.io/reading-notes/level-03/class-01) |
-|  **2**  | \*\*                                 |                                             [\*\*\*]()                                             |
+|  **2**  | State and Props                      |           [State and Props](https://osama900.github.io/reading-notes/level-03/class-02)            |
+|  **3**  | \*\*\*\*                             |                                             [\*\*\*]()                                             |
 
 <br>
 
