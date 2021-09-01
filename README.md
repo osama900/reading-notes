@@ -44,7 +44,8 @@
 |  **2**  | State and Props                      |           [State and Props](https://osama900.github.io/reading-notes/level-03/class-02)            |
 |  **3**  | Passing Functions as Props           |      [Passing Functions as Props](https://osama900.github.io/reading-notes/level-03/class-03)      |
 |  **4**  | React and Forms                      |           [React and Forms](https://osama900.github.io/reading-notes/level-03/class-04)            |
-|  **4**  | \*\*                                 |                                              [\*\*]()                                              |
+|  **5**  | Putting it all together              |       [Putting it all together](https://osama900.github.io/reading-notes/level-03/class-05)        |
+|  **6**  | \*\*                                 |                 [\*\*](https://osama900.github.io/reading-notes/level-03/class-06)                 |
 
 <br>
 
