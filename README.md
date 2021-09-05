@@ -46,7 +46,8 @@
 |  **4**  | React and Forms                      |           [React and Forms](https://osama900.github.io/reading-notes/level-03/class-04)            |
 |  **5**  | Putting it all together              |       [Putting it all together](https://osama900.github.io/reading-notes/level-03/class-05)        |
 |  **6**  | NODE.JS                              |               [NODE.JS](https://osama900.github.io/reading-notes/level-03/class-06)                |
-|  **7**  | \*\*                                 |                 [\*\*](https://osama900.github.io/reading-notes/level-03/class-07)                 |
+|  **7**  | REST                                 |                 [REST](https://osama900.github.io/reading-notes/level-03/class-07)                 |
+|  **8**  | \*\*\*                               |               [\*\*\*\*](https://osama900.github.io/reading-notes/level-03/class-08)               |
 
 <br>
 
