@@ -49,6 +49,7 @@
 |  **7**  | REST                                 |                 [REST](https://osama900.github.io/reading-notes/level-03/class-07)                 |
 |  **8**  | APIs                                 |                 [APIs](https://osama900.github.io/reading-notes/level-03/class-08)                 |
 |  **9**  | FUNCTIONAL PROGRAMMING               |        [FUNCTIONAL PROGRAMMING](https://osama900.github.io/reading-notes/level-03/class-09)        |
+| **10**  | In memory storage                    |          [In memory storage](https://osama900.github.io/reading-notes/level-03/class-10)           |
 
 <br>
 

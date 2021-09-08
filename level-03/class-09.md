@@ -47,6 +47,6 @@ to use the functionality from the module inside the application which it is a gl
 
 by using `require(*the path of the module);`
 
-3. What do we have to do to make a module available?
+4. What do we have to do to make a module available?
 
 we need to export whatever we need to available outside the module
