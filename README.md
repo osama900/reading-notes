@@ -38,20 +38,21 @@
 
 ## Code 301 - Intermediate Software Development
 
-| **No.** | **Title**                            |                                              **Link**                                              |
-| :-----: | :----------------------------------- | :------------------------------------------------------------------------------------------------: |
-|  **1**  | Introduction to React and Components | [Introduction to React and Components](https://osama900.github.io/reading-notes/level-03/class-01) |
-|  **2**  | State and Props                      |           [State and Props](https://osama900.github.io/reading-notes/level-03/class-02)            |
-|  **3**  | Passing Functions as Props           |      [Passing Functions as Props](https://osama900.github.io/reading-notes/level-03/class-03)      |
-|  **4**  | React and Forms                      |           [React and Forms](https://osama900.github.io/reading-notes/level-03/class-04)            |
-|  **5**  | Putting it all together              |       [Putting it all together](https://osama900.github.io/reading-notes/level-03/class-05)        |
-|  **6**  | NODE.JS                              |               [NODE.JS](https://osama900.github.io/reading-notes/level-03/class-06)                |
-|  **7**  | REST                                 |                 [REST](https://osama900.github.io/reading-notes/level-03/class-07)                 |
-|  **8**  | APIs                                 |                 [APIs](https://osama900.github.io/reading-notes/level-03/class-08)                 |
-|  **9**  | FUNCTIONAL PROGRAMMING               |        [FUNCTIONAL PROGRAMMING](https://osama900.github.io/reading-notes/level-03/class-09)        |
-| **10**  | In memory storage                    |          [In memory storage](https://osama900.github.io/reading-notes/level-03/class-10)           |
-| **11**  | Mongo and Mongoose                   |          [Mongo and Mongoose](https://osama900.github.io/reading-notes/level-03/class-11)          |
-| **12**  | CRUD                                 |                 [CRUD](https://osama900.github.io/reading-notes/level-03/class-12)                 |
+| **No.** | **Title**                                  |                                                 **Link**                                                 |
+| :-----: | :----------------------------------------- | :------------------------------------------------------------------------------------------------------: |
+|  **1**  | Introduction to React and Components       |    [Introduction to React and Components](https://osama900.github.io/reading-notes/level-03/class-01)    |
+|  **2**  | State and Props                            |              [State and Props](https://osama900.github.io/reading-notes/level-03/class-02)               |
+|  **3**  | Passing Functions as Props                 |         [Passing Functions as Props](https://osama900.github.io/reading-notes/level-03/class-03)         |
+|  **4**  | React and Forms                            |              [React and Forms](https://osama900.github.io/reading-notes/level-03/class-04)               |
+|  **5**  | Putting it all together                    |          [Putting it all together](https://osama900.github.io/reading-notes/level-03/class-05)           |
+|  **6**  | NODE.JS                                    |                  [NODE.JS](https://osama900.github.io/reading-notes/level-03/class-06)                   |
+|  **7**  | REST                                       |                    [REST](https://osama900.github.io/reading-notes/level-03/class-07)                    |
+|  **8**  | APIs                                       |                    [APIs](https://osama900.github.io/reading-notes/level-03/class-08)                    |
+|  **9**  | FUNCTIONAL PROGRAMMING                     |           [FUNCTIONAL PROGRAMMING](https://osama900.github.io/reading-notes/level-03/class-09)           |
+| **10**  | In memory storage                          |             [In memory storage](https://osama900.github.io/reading-notes/level-03/class-10)              |
+| **11**  | Mongo and Mongoose                         |             [Mongo and Mongoose](https://osama900.github.io/reading-notes/level-03/class-11)             |
+| **12**  | CRUD                                       |                    [CRUD](https://osama900.github.io/reading-notes/level-03/class-12)                    |
+| **13**  | Diversity & Inclusion in the Tech Industry | [Diversity & Inclusion in the Tech Industry](https://osama900.github.io/reading-notes/level-03/class-13) |
 
 <br>
 
