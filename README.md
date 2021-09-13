@@ -50,6 +50,7 @@
 |  **8**  | APIs                                 |                 [APIs](https://osama900.github.io/reading-notes/level-03/class-08)                 |
 |  **9**  | FUNCTIONAL PROGRAMMING               |        [FUNCTIONAL PROGRAMMING](https://osama900.github.io/reading-notes/level-03/class-09)        |
 | **10**  | In memory storage                    |          [In memory storage](https://osama900.github.io/reading-notes/level-03/class-10)           |
+| **11**  | Mongo and Mongoose                   |          [Mongo and Mongoose](https://osama900.github.io/reading-notes/level-03/class-11)          |
 
 <br>
 
