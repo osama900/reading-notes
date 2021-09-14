@@ -53,6 +53,7 @@
 | **11**  | Mongo and Mongoose                         |             [Mongo and Mongoose](https://osama900.github.io/reading-notes/level-03/class-11)             |
 | **12**  | CRUD                                       |                    [CRUD](https://osama900.github.io/reading-notes/level-03/class-12)                    |
 | **13**  | Diversity & Inclusion in the Tech Industry | [Diversity & Inclusion in the Tech Industry](https://osama900.github.io/reading-notes/level-03/class-13) |
+| **14**  | Authentication                             |               [Authentication](https://osama900.github.io/reading-notes/level-03/class-14)               |
 
 <br>
 
